@@ -105,5 +105,9 @@ venv.bak/
 
 
 
+<<<<<<< HEAD
 .vscode
 *.pem
+=======
+.vscode
+>>>>>>> 46aa21a9e3505655381e843f04b79bf127e2e024
